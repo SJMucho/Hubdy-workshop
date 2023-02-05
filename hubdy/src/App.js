@@ -9,8 +9,8 @@ function App() {
     //   <Route path="/" component={Login} />
     // </Switch>
     <div>
-      {/* <Login /> */}
-      <CreateAccount />
+      <Login />
+      {/* <CreateAccount /> */}
     </div>
   );
 }
